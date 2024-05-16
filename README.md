@@ -27,6 +27,7 @@ This commands includes
 <BR>
 
 ## Output
+![4](https://github.com/Aakash0407/4.Execution_of_NetworkCommends/assets/118799103/b1034211-4d68-49fb-8312-b6e945dcd94d)
 
 ## Result
 Thus Execution of Network commands Performed 
